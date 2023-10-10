@@ -16,8 +16,5 @@ public class Main {
         Table plasticTable = factory.initTable();
         plasticTable.create();
 
-
-
-
     }
 }
