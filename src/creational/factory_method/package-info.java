@@ -25,7 +25,9 @@ package creational.factory_method;
     - Thống nhất về naming convention: giúp cho các developer có thể hiểu về cấu trúc source code.
 
 
-  5. Trưồng hợp sử dụng thực tế là : trong class LoggerFactory chỉ tạo ra một instance duy nhất, và java.runtime
+  5. Trưồng hợp sử dụng thực tế là :
+     Trong một ứng dụng sử dụng nhiều DB, thì việc sử dụng Factory method pattern là hiệu quả khi có thể chọn loại DB và khởi tạo kết nối, thực thi câu lệnh riêng đối với từng DB
+     Khi cần thêm một loại DB mới thì cũng rất dễ dàng
 
 
  */
