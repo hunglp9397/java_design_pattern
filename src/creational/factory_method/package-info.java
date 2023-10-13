@@ -25,4 +25,7 @@ package creational.factory_method;
     - Thống nhất về naming convention: giúp cho các developer có thể hiểu về cấu trúc source code.
 
 
+  5. Trưồng hợp sử dụng thực tế là : trong class LoggerFactory chỉ tạo ra một instance duy nhất, và java.runtime
+
+
  */
