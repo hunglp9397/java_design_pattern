@@ -25,7 +25,11 @@ SINGLETON PATTERN
 
 4. Trường hợp sử dụng Singleton
 - Dùng trong logFactory
-- Dùng trong java.runtime
+- Dùng trong java.lang.Runtime
+
+5. Singleton trong Spring
+- Có thể có nhiều singleton bean từ 1 class
+
 
 
 
