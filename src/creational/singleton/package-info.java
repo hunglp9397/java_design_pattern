@@ -23,6 +23,10 @@ SINGLETON PATTERN
 
 
 
+4. Trường hợp sử dụng Singleton
+- Dùng trong logFactory
+- Dùng trong java.runtime
+
 
 
 
