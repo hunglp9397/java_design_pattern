@@ -29,7 +29,7 @@ package creational.factory_method;
      Trong một ứng dụng sử dụng nhiều DB, thì việc sử dụng Factory method pattern là hiệu quả khi có thể chọn loại DB và khởi tạo kết nối, thực thi câu lệnh riêng đối với từng DB
      Khi cần thêm một loại DB mới thì cũng rất dễ dàng
 
-
+https://github.com/springframeworkguru/gof
  */
 
-https://github.com/springframeworkguru/gof
+
