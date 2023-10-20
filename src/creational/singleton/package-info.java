@@ -9,9 +9,9 @@ SINGLETON PATTERN
 - Singleton còn được dùng trong java class như là java.lang.Runtime
 
 2. Cấu trúc
-- Cần một private contructor để không cho phép khởi tạo đối tượng, và truy cập ra bên ngoài
-- Đặt private static final variable để đảm bảo biến chỉ được khởi tạo bên trong class
-- Một public static method trả ra instance của class
+- Cần một private constructor để không cho phép khởi tạo từ bên ngoài
+- Cần một biến private static để đảm bảo chỉ cho phép khởi tạo từ nội tại class
+- Cần một public static method để trả ra instance của Class
 
 
 3. Implement: có 3 cách
@@ -29,9 +29,6 @@ SINGLETON PATTERN
 
 5. Singleton trong Spring
 - Có thể có nhiều singleton bean từ 1 class
-
-
-
 
 
 
