@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8425cc7e-dc22-40e1-90c3-d680490a59d2" name="Changes" comment="Update readme">
-      <change afterPath="$PROJECT_DIR$/src/behavioral/observer_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/observer_2/editor/Editor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/observer_2/listeners/EventListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/observer_2/listeners/LogOpenFileListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/observer_2/listeners/MailListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/observer_2/publisher/EventManager.java" afterDir="false" />
+    <list default="true" id="8425cc7e-dc22-40e1-90c3-d680490a59d2" name="Changes" comment="Demo observer example 2 done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavioral/observer_2/editor/Editor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/observer_2/editor/Editor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavioral/observer_2/listeners/EventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/observer_2/listeners/EventListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavioral/observer_2/listeners/LogOpenFileListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/observer_2/listeners/LogOpenFileListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavioral/observer_2/listeners/MailListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/observer_2/listeners/MailListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavioral/observer_2/publisher/EventManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/observer_2/publisher/EventManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +147,9 @@
       <workItem from="1697860720198" duration="4415000" />
       <workItem from="1697900119381" duration="2978000" />
       <workItem from="1697985981881" duration="1422000" />
-      <workItem from="1698074253489" duration="5577000" />
+      <workItem from="1698074253489" duration="6321000" />
+      <workItem from="1698245754574" duration="197000" />
+      <workItem from="1698245970485" duration="937000" />
     </task>
     <task id="LOCAL-00001" summary="PRoxy pattern done">
       <created>1697581977373</created>
@@ -171,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697838666487</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Demo observer example 2 done">
+      <created>1698081371840</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698081371840</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +189,7 @@
     <MESSAGE value="PRoxy pattern done" />
     <MESSAGE value="Demo proxy pattern done" />
     <MESSAGE value="Update readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update readme" />
+    <MESSAGE value="Demo observer example 2 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Demo observer example 2 done" />
   </component>
 </project>

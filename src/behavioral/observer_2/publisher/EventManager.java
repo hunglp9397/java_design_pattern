@@ -8,6 +8,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+
+// Concreate Subject. Có thể đăng kí, hoặc hủy bỏ một observer khác. ngoài ra cũng sẽ chứa hàm notify thông báo tới tất cả các observer khi có 1 event nào đó
 public class EventManager {
 
     Map<String, List<EventListener>> listeners = new HashMap<>();

@@ -3,6 +3,8 @@ package behavioral.observer_2.listeners;
 import java.io.File;
 import java.util.Date;
 
+
+// Concreate Observer : Thực thi udpate()
 public class MailListener implements EventListener {
 
     private String email;

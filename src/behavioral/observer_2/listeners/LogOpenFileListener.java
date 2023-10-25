@@ -2,6 +2,8 @@ package behavioral.observer_2.listeners;
 import java.io.File;
 import java.util.Date;
 
+
+// Concreate Observer, Thực thi update()
 public class LogOpenFileListener implements EventListener{
 
     private File file;

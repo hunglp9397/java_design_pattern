@@ -6,6 +6,8 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
+
+// Thằng này là Subject, Chứa danh sách các Observer, Có thể
 public class Editor {
 
     public EventManager eventManager;
